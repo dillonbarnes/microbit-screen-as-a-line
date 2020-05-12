@@ -1,5 +1,5 @@
 {
-    "name": "microbit-screen-as-a-line",
+    "name": "Plotting Extension - Plotty",
     "version": "1.0.2",
     "description": "",
     "dependencies": {
