@@ -2,7 +2,7 @@ namespace screenMagic {
     /**
      * Address LEDs linearly row first
      */
-    //% blockId=screenmagicplotat
+    //% blockId=My First Extension
     //% block="plot at $index"
     //% index.min=0 index.max=25
     export function plotAt(index: number): void {
