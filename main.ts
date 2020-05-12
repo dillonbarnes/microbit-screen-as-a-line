@@ -1,4 +1,4 @@
-namespace screenMagic {
+namespace Plotty {
     /**
      * Address LEDs linearly row first
      */
