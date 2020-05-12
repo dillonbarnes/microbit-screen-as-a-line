@@ -2,7 +2,7 @@ namespace Plotty {
     /**
      * Address LEDs linearly row first
      */
-    //% blockId=Plotty
+    //% blockId=Plot LED
     //% block="plot at $index"
     //% index.min=0 index.max=25
     export function plotAt(index: number): void {
