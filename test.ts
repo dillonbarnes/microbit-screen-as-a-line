@@ -1,4 +1,4 @@
 for(let i = 0; i < 25; ++i) {
-    Plotty.plotAt(i)
+    Plotty.TurnOnLEDs(i)
     basic.pause(500)
 }
